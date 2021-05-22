@@ -63,6 +63,9 @@ main {
   max-width: 100%;
 }
 
+.foot {
+  margin-bottom: 1rem;
+}
 .footIcons {
   display: flex;
   justify-content: space-between;
@@ -75,8 +78,4 @@ main {
 footer {
   display: flex;
   justify-content: space-between;
-  padding: 0;
-  text-align: center;
-  margin: 0;
-  padding: 4rem;
 }
